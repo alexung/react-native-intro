@@ -10,6 +10,4 @@ This is a companion repository to Rithm School's React Native event.
 
 I built the same app with normal React (`colorbox-web`) and React native (`colorbox-native`).
 
-### Before
-
 ![ColorBox](./colorbox.gif)
